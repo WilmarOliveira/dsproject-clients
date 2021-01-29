@@ -1,11 +1,13 @@
 package com.devsuperior.dsproject.dto;
 
+import java.io.Serializable;
 import java.time.Instant;
 
 import com.devsuperior.dsproject.entities.Client;
 
-public class ClientDTO {
-
+public class ClientDTO implements Serializable {
+	private static final long serialVersionUID = 1L;
+	
 	private Long id;
 	private String name;
 	private String cpf;
