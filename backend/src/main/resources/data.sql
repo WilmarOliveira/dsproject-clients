@@ -1,5 +1,10 @@
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Bruna', '25525525500', 1250.00, '1999-07-02', 0);
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Wilmar', '26626626600', 3250.00, '1990-08-03', 0);
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Lourdes', '27727727700', 1150.00,'1964-01-02', 2);
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Wilmar', '28828828800', 3550.00, '1963-04-19', 2);
-	
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Freddy Krueger', '25525525500', 2250.00, '1999-07-02', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Michael Myers', '26626626600', 3250.00, '1990-08-03', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Jason Vorhees', '27727727700', 1150.00,'1964-01-02', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ash Williams', '28828828800', 3550.00, '1963-04-19', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Meg Myers', '29929929900', 2550.00, '1970-04-12', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Joseph Poole', '30030030000', 4550.00, '1976-08-12', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Cybil Bennet', '31131131100', 7550.00, '1990-03-01', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Alessa Morgan', '40040040022', 2550.00, '1992-08-04', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Carrie White', '56656656627', 3750.00, '1976-01-25', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Slade Wilson', '7566787799', 10960.00, '1970-08-03', 3);
